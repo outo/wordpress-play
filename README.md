@@ -1,0 +1,1 @@
+https://sebwalak.com/software-development/2018/05/03/wordpress-shortcode-plugin-sql-query.html
